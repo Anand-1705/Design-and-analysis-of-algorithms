@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class pract1DAA {
+public class bubblesort {
     // Function to perform Bubble Sort
     public static void bubbleSort(int[] arr) {
         int n = arr.length;
